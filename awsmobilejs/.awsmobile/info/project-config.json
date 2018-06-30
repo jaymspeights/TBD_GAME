@@ -1,0 +1,6 @@
+{
+	"SourceDir": "https://github.com/jaymspeights/TBD_GAME",
+	"DistributionDir": "dist",
+	"BuildCommand": "npm.cmd run-script build",
+	"StartCommand": "npm start"
+}
